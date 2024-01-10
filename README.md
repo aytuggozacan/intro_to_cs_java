@@ -1,6 +1,6 @@
 # Introductory coding exercises for Java 
 
-This repository contains Java code and used in the Introduction to Computer Science course at the Technical University of Munich, held during the winter semester of 2021 course, which I have attended as student and shows the relevant code I have used in the context of the course.
+This repository contains Java code and used in the Introduction to Computer Science course at the Technical University of Munich, held during the winter semester of 2021/22, which I have attended as student and shows the relevant code I have used in the context of the course.
 
 ## Acknowledgments
 
